@@ -65,12 +65,6 @@
 		0D44BB721E537110000930E0 /* XMPPStringPrep.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D44BB641E537110000930E0 /* XMPPStringPrep.m */; };
 		0D44BB731E537110000930E0 /* XMPPTimer.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BB651E537110000930E0 /* XMPPTimer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0D44BB741E537110000930E0 /* XMPPTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D44BB661E537110000930E0 /* XMPPTimer.m */; };
-		D91D42431FD9DAC90064FD27 /* XMPPPresence+XEP_0319.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91D42421FD9DAC90064FD27 /* XMPPPresence+XEP_0319.swift */; };
-		D91D42441FD9DAC90064FD27 /* XMPPPresence+XEP_0319.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91D42421FD9DAC90064FD27 /* XMPPPresence+XEP_0319.swift */; };
-		D91D42451FD9DAC90064FD27 /* XMPPPresence+XEP_0319.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91D42421FD9DAC90064FD27 /* XMPPPresence+XEP_0319.swift */; };
-		D91D42481FD9DCAA0064FD27 /* Date+XEP_0082.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91D42471FD9DCAA0064FD27 /* Date+XEP_0082.swift */; };
-		D91D42491FD9DCAA0064FD27 /* Date+XEP_0082.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91D42471FD9DCAA0064FD27 /* Date+XEP_0082.swift */; };
-		D91D424A1FD9DCAA0064FD27 /* Date+XEP_0082.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91D42471FD9DCAA0064FD27 /* Date+XEP_0082.swift */; };
 		D9268BAC1F9EB0BB009A37C7 /* XMPPMessage+XEP_0313.h in Headers */ = {isa = PBXBuildFile; fileRef = D9268BAA1F9EB0BB009A37C7 /* XMPPMessage+XEP_0313.h */; };
 		D9268BAD1F9EB0BB009A37C7 /* XMPPMessage+XEP_0313.h in Headers */ = {isa = PBXBuildFile; fileRef = D9268BAA1F9EB0BB009A37C7 /* XMPPMessage+XEP_0313.h */; };
 		D9268BAE1F9EB0BB009A37C7 /* XMPPMessage+XEP_0313.h in Headers */ = {isa = PBXBuildFile; fileRef = D9268BAA1F9EB0BB009A37C7 /* XMPPMessage+XEP_0313.h */; };
@@ -107,61 +101,6 @@
 		D96D6EA51F8DA80A006DEC58 /* NSXMLElement+XEP_0359.m in Sources */ = {isa = PBXBuildFile; fileRef = D96D6EA11F8DA80A006DEC58 /* NSXMLElement+XEP_0359.m */; };
 		D96D6EA61F8DA80A006DEC58 /* NSXMLElement+XEP_0359.m in Sources */ = {isa = PBXBuildFile; fileRef = D96D6EA11F8DA80A006DEC58 /* NSXMLElement+XEP_0359.m */; };
 		D96D6EA71F8DA80A006DEC58 /* NSXMLElement+XEP_0359.m in Sources */ = {isa = PBXBuildFile; fileRef = D96D6EA11F8DA80A006DEC58 /* NSXMLElement+XEP_0359.m */; };
-		D97097A81FC4DF86008ED04B /* XMPPMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97097A71FC4DF86008ED04B /* XMPPMessage.swift */; };
-		D97097A91FC4DF86008ED04B /* XMPPMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97097A71FC4DF86008ED04B /* XMPPMessage.swift */; };
-		D97097AA1FC4DF86008ED04B /* XMPPMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97097A71FC4DF86008ED04B /* XMPPMessage.swift */; };
-		D97097B81FC4DF96008ED04B /* XMPPPresence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97097B71FC4DF96008ED04B /* XMPPPresence.swift */; };
-		D97097B91FC4DF96008ED04B /* XMPPPresence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97097B71FC4DF96008ED04B /* XMPPPresence.swift */; };
-		D97097BA1FC4DF96008ED04B /* XMPPPresence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97097B71FC4DF96008ED04B /* XMPPPresence.swift */; };
-		D97097BD1FC4DFD2008ED04B /* XMPPMessage+XEP_0085.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97097BC1FC4DFD2008ED04B /* XMPPMessage+XEP_0085.swift */; };
-		D97097BE1FC4DFD2008ED04B /* XMPPMessage+XEP_0085.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97097BC1FC4DFD2008ED04B /* XMPPMessage+XEP_0085.swift */; };
-		D97097BF1FC4DFD2008ED04B /* XMPPMessage+XEP_0085.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97097BC1FC4DFD2008ED04B /* XMPPMessage+XEP_0085.swift */; };
-		D97BE9EF1FBBACEA00CFE3BB /* XMPPBookmarksModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97BE9EE1FBBACEA00CFE3BB /* XMPPBookmarksModule.swift */; };
-		D97BE9F01FBBACEA00CFE3BB /* XMPPBookmarksModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97BE9EE1FBBACEA00CFE3BB /* XMPPBookmarksModule.swift */; };
-		D97BE9F11FBBACEA00CFE3BB /* XMPPBookmarksModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97BE9EE1FBBACEA00CFE3BB /* XMPPBookmarksModule.swift */; };
-		D97BE9F51FBBCAA000CFE3BB /* XMPPModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97BE9F41FBBC82D00CFE3BB /* XMPPModule.swift */; };
-		D97BE9F61FBBCAA000CFE3BB /* XMPPModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97BE9F41FBBC82D00CFE3BB /* XMPPModule.swift */; };
-		D97BE9F71FBBCAA100CFE3BB /* XMPPModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97BE9F41FBBC82D00CFE3BB /* XMPPModule.swift */; };
-		D97BE9FE1FBBE4E200CFE3BB /* XMPPIQ.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97BE9FD1FBBE4E200CFE3BB /* XMPPIQ.swift */; };
-		D97BE9FF1FBBE4E200CFE3BB /* XMPPIQ.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97BE9FD1FBBE4E200CFE3BB /* XMPPIQ.swift */; };
-		D97BEA001FBBE4E200CFE3BB /* XMPPIQ.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97BE9FD1FBBE4E200CFE3BB /* XMPPIQ.swift */; };
-		D9A7A9B91FB97892005183CD /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3A71E6251FA0010D1C7 /* libresolv.tbd */; };
-		D9A7A9BA1FB97892005183CD /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3A51E6251E30010D1C7 /* libxml2.tbd */; };
-		D9A7A9BB1FB97892005183CD /* CocoaLumberjack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD35D1E6250CA0010D1C7 /* CocoaLumberjack.framework */; };
-		D9A7A9BC1FB97892005183CD /* libidn.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD38F1E6250D20010D1C7 /* libidn.framework */; };
-		D9A7A9BD1FB97892005183CD /* KissXML.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3801E6250CE0010D1C7 /* KissXML.framework */; };
-		D9A7A9BE1FB97892005183CD /* CocoaAsyncSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3401E6250C60010D1C7 /* CocoaAsyncSocket.framework */; };
-		D9A7ADAC1FB97A3C005183CD /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD6BF1E625B4D0010D1C7 /* AppKit.framework */; };
-		D9A7ADAD1FB97A3C005183CD /* CocoaAsyncSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3421E6250C60010D1C7 /* CocoaAsyncSocket.framework */; };
-		D9A7ADAE1FB97A3C005183CD /* CocoaLumberjack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3591E6250CA0010D1C7 /* CocoaLumberjack.framework */; };
-		D9A7ADAF1FB97A3C005183CD /* KissXML.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3821E6250CE0010D1C7 /* KissXML.framework */; };
-		D9A7ADB01FB97A3C005183CD /* libidn.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3931E6250D20010D1C7 /* libidn.framework */; };
-		D9A7ADB11FB97A3C005183CD /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3A71E6251FA0010D1C7 /* libresolv.tbd */; };
-		D9A7ADB21FB97A3C005183CD /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3A51E6251E30010D1C7 /* libxml2.tbd */; };
-		D9A7AEF81FB97A65005183CD /* CocoaAsyncSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3441E6250C60010D1C7 /* CocoaAsyncSocket.framework */; };
-		D9A7AEF91FB97A65005183CD /* CocoaLumberjack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3671E6250CA0010D1C7 /* CocoaLumberjack.framework */; };
-		D9A7AEFA1FB97A65005183CD /* KissXML.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3841E6250CE0010D1C7 /* KissXML.framework */; };
-		D9A7AEFB1FB97A65005183CD /* libidn.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3951E6250D20010D1C7 /* libidn.framework */; };
-		D9A7AEFC1FB97A65005183CD /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3A71E6251FA0010D1C7 /* libresolv.tbd */; };
-		D9A7AEFD1FB97A65005183CD /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3A51E6251E30010D1C7 /* libxml2.tbd */; };
-		D9A7AFB61FB97B20005183CD /* XMPPFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D44BAEA1E537066000930E0 /* XMPPFramework.framework */; };
-		D9A7AFB71FB97B2C005183CD /* XMPPFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD5331E6256D90010D1C7 /* XMPPFramework.framework */; };
-		D9A7AFB81FB97B34005183CD /* XMPPFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD6961E6258CF0010D1C7 /* XMPPFramework.framework */; };
-		D9A7B00F1FB9805D005183CD /* CocoaLumberjackSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD35F1E6250CA0010D1C7 /* CocoaLumberjackSwift.framework */; };
-		D9A7B0121FB9806C005183CD /* CocoaLumberjackSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD35B1E6250CA0010D1C7 /* CocoaLumberjackSwift.framework */; };
-		D9A7B0151FB9807B005183CD /* CocoaLumberjackSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9DCD3691E6250CA0010D1C7 /* CocoaLumberjackSwift.framework */; };
-		D9A7B0161FB980E2005183CD /* XMPPFramework.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A7AA751FB97908005183CD /* XMPPFramework.swift */; };
-		D9A7B0171FB980E2005183CD /* XMPPFramework.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A7AA751FB97908005183CD /* XMPPFramework.swift */; };
-		D9A7B0181FB980E2005183CD /* XMPPFramework.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A7AA751FB97908005183CD /* XMPPFramework.swift */; };
-		D9A7B0191FB980E5005183CD /* XMPPFrameworkSwift.h in Headers */ = {isa = PBXBuildFile; fileRef = D9A7B0061FB97FE6005183CD /* XMPPFrameworkSwift.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D9A7B01A1FB980E6005183CD /* XMPPFrameworkSwift.h in Headers */ = {isa = PBXBuildFile; fileRef = D9A7B0061FB97FE6005183CD /* XMPPFrameworkSwift.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D9A7B01B1FB980E6005183CD /* XMPPFrameworkSwift.h in Headers */ = {isa = PBXBuildFile; fileRef = D9A7B0061FB97FE6005183CD /* XMPPFrameworkSwift.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D9B81AC21FBCD25100455683 /* GCDMulticastDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B81AC11FBCD25100455683 /* GCDMulticastDelegate.swift */; };
-		D9B81AC31FBCD25100455683 /* GCDMulticastDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B81AC11FBCD25100455683 /* GCDMulticastDelegate.swift */; };
-		D9B81AC41FBCD25100455683 /* GCDMulticastDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B81AC11FBCD25100455683 /* GCDMulticastDelegate.swift */; };
-		D9B81AD91FBCE38F00455683 /* XMLElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B81AD81FBCE38F00455683 /* XMLElement.swift */; };
-		D9B81ADA1FBCE38F00455683 /* XMLElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B81AD81FBCE38F00455683 /* XMLElement.swift */; };
-		D9B81ADB1FBCE38F00455683 /* XMLElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B81AD81FBCE38F00455683 /* XMLElement.swift */; };
 		D9CC4F991F8F336D00010999 /* XMPPCapabilities+XEP_0359.h in Headers */ = {isa = PBXBuildFile; fileRef = D9CC4F971F8F336D00010999 /* XMPPCapabilities+XEP_0359.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9CC4F9A1F8F336D00010999 /* XMPPCapabilities+XEP_0359.h in Headers */ = {isa = PBXBuildFile; fileRef = D9CC4F971F8F336D00010999 /* XMPPCapabilities+XEP_0359.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9CC4F9B1F8F336D00010999 /* XMPPCapabilities+XEP_0359.h in Headers */ = {isa = PBXBuildFile; fileRef = D9CC4F971F8F336D00010999 /* XMPPCapabilities+XEP_0359.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -1059,118 +998,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		D9A7A91B1FB97892005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3391E6250C50010D1C7 /* CocoaAsyncSocket.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 6CD9900F1B77868C0011A685;
-			remoteInfo = "iOS CocoaAsyncSocket";
-		};
-		D9A7A91D1FB97892005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3451E6250CA0010D1C7 /* Lumberjack.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 19FF46011B8B4CF400B43179;
-			remoteInfo = "CocoaLumberjack-iOS";
-		};
-		D9A7A91F1FB97892005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3781E6250CE0010D1C7 /* KissXML.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 0DCD8DC91E54A3A3001D9832;
-			remoteInfo = "KissXML (iOS)";
-		};
-		D9A7A9211FB97892005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3871E6250D10010D1C7 /* libidn.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 0D2812301E5597AF00DFC03B;
-			remoteInfo = "libidn (iOS)";
-		};
-		D9A7AD0E1FB97A3C005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3451E6250CA0010D1C7 /* Lumberjack.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = DCB3185014EB418E001CFBEE;
-			remoteInfo = CocoaLumberjack;
-		};
-		D9A7AD101FB97A3C005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3871E6250D10010D1C7 /* libidn.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = D9A06D241E5D88F100FA59D3;
-			remoteInfo = "libidn (macOS)";
-		};
-		D9A7AD121FB97A3C005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3781E6250CE0010D1C7 /* KissXML.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = D94131A31E5CEBE700189BD5;
-			remoteInfo = "KissXML (macOS)";
-		};
-		D9A7AD141FB97A3C005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3391E6250C50010D1C7 /* CocoaAsyncSocket.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 9FC41F121B9D965000578BEB;
-			remoteInfo = "Mac CocoaAsyncSocket";
-		};
-		D9A7AE5A1FB97A65005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3871E6250D10010D1C7 /* libidn.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = D949C92A1E5E09E600DF5447;
-			remoteInfo = "libidn (tvOS)";
-		};
-		D9A7AE5C1FB97A65005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3781E6250CE0010D1C7 /* KissXML.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = D94131BC1E5CEC8300189BD5;
-			remoteInfo = "KissXML (tvOS)";
-		};
-		D9A7AE5E1FB97A65005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3451E6250CA0010D1C7 /* Lumberjack.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 19D90B071BBFA9DB00947169;
-			remoteInfo = "CocoaLumberjack-tvOS";
-		};
-		D9A7AE601FB97A65005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3391E6250C50010D1C7 /* CocoaAsyncSocket.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 7D8B70C31BCFA15700D8E273;
-			remoteInfo = "tvOS CocoaAsyncSocket";
-		};
-		D9A7AFF51FB97F92005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 0D44BAE11E537066000930E0 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 0D44BAE91E537066000930E0;
-			remoteInfo = "XMPPFramework (iOS)";
-		};
-		D9A7B00D1FB98057005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3451E6250CA0010D1C7 /* Lumberjack.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 19FF460E1B8B4D1400B43179;
-			remoteInfo = "CocoaLumberjackSwift-iOS";
-		};
-		D9A7B0101FB98064005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3451E6250CA0010D1C7 /* Lumberjack.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 18F3BEF61A81D8B700692297;
-			remoteInfo = "CocoaLumberjackSwift-macOS";
-		};
-		D9A7B0131FB98075005183CD /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D9DCD3451E6250CA0010D1C7 /* Lumberjack.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 19D90B281BBFAA7500947169;
-			remoteInfo = "CocoaLumberjackSwift-tvOS";
-		};
 		D9DCD33F1E6250C60010D1C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D9DCD3391E6250C50010D1C7 /* CocoaAsyncSocket.xcodeproj */;
@@ -1526,11 +1353,8 @@
 		D97BE9EE1FBBACEA00CFE3BB /* XMPPBookmarksModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMPPBookmarksModule.swift; sourceTree = "<group>"; };
 		D97BE9F41FBBC82D00CFE3BB /* XMPPModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMPPModule.swift; sourceTree = "<group>"; };
 		D97BE9FD1FBBE4E200CFE3BB /* XMPPIQ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMPPIQ.swift; sourceTree = "<group>"; };
-		D9A7AA621FB97892005183CD /* XMPPFrameworkSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XMPPFrameworkSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9A7AA741FB97908005183CD /* XMPPFrameworkSwift-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "XMPPFrameworkSwift-Info.plist"; sourceTree = "<group>"; };
 		D9A7AA751FB97908005183CD /* XMPPFramework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMPPFramework.swift; sourceTree = "<group>"; };
-		D9A7AE561FB97A3C005183CD /* XMPPFrameworkSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XMPPFrameworkSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D9A7AFA11FB97A65005183CD /* XMPPFrameworkSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XMPPFrameworkSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9A7B0061FB97FE6005183CD /* XMPPFrameworkSwift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMPPFrameworkSwift.h; sourceTree = "<group>"; };
 		D9B81AC11FBCD25100455683 /* GCDMulticastDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GCDMulticastDelegate.swift; sourceTree = "<group>"; };
 		D9B81AD81FBCE38F00455683 /* XMLElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMLElement.swift; sourceTree = "<group>"; };
@@ -1815,52 +1639,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D9A7A9B81FB97892005183CD /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D9A7B00F1FB9805D005183CD /* CocoaLumberjackSwift.framework in Frameworks */,
-				D9A7AFB61FB97B20005183CD /* XMPPFramework.framework in Frameworks */,
-				D9A7A9B91FB97892005183CD /* libresolv.tbd in Frameworks */,
-				D9A7A9BA1FB97892005183CD /* libxml2.tbd in Frameworks */,
-				D9A7A9BB1FB97892005183CD /* CocoaLumberjack.framework in Frameworks */,
-				D9A7A9BC1FB97892005183CD /* libidn.framework in Frameworks */,
-				D9A7A9BD1FB97892005183CD /* KissXML.framework in Frameworks */,
-				D9A7A9BE1FB97892005183CD /* CocoaAsyncSocket.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D9A7ADAB1FB97A3C005183CD /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D9A7B0121FB9806C005183CD /* CocoaLumberjackSwift.framework in Frameworks */,
-				D9A7AFB71FB97B2C005183CD /* XMPPFramework.framework in Frameworks */,
-				D9A7ADAC1FB97A3C005183CD /* AppKit.framework in Frameworks */,
-				D9A7ADAD1FB97A3C005183CD /* CocoaAsyncSocket.framework in Frameworks */,
-				D9A7ADAE1FB97A3C005183CD /* CocoaLumberjack.framework in Frameworks */,
-				D9A7ADAF1FB97A3C005183CD /* KissXML.framework in Frameworks */,
-				D9A7ADB01FB97A3C005183CD /* libidn.framework in Frameworks */,
-				D9A7ADB11FB97A3C005183CD /* libresolv.tbd in Frameworks */,
-				D9A7ADB21FB97A3C005183CD /* libxml2.tbd in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D9A7AEF71FB97A65005183CD /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D9A7B0151FB9807B005183CD /* CocoaLumberjackSwift.framework in Frameworks */,
-				D9A7AFB81FB97B34005183CD /* XMPPFramework.framework in Frameworks */,
-				D9A7AEF81FB97A65005183CD /* CocoaAsyncSocket.framework in Frameworks */,
-				D9A7AEF91FB97A65005183CD /* CocoaLumberjack.framework in Frameworks */,
-				D9A7AEFA1FB97A65005183CD /* KissXML.framework in Frameworks */,
-				D9A7AEFB1FB97A65005183CD /* libidn.framework in Frameworks */,
-				D9A7AEFC1FB97A65005183CD /* libresolv.tbd in Frameworks */,
-				D9A7AEFD1FB97A65005183CD /* libxml2.tbd in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		D9DCD4901E6256D90010D1C7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -1907,9 +1685,6 @@
 				0D44BAEA1E537066000930E0 /* XMPPFramework.framework */,
 				D9DCD5331E6256D90010D1C7 /* XMPPFramework.framework */,
 				D9DCD6961E6258CF0010D1C7 /* XMPPFramework.framework */,
-				D9A7AA621FB97892005183CD /* XMPPFrameworkSwift.framework */,
-				D9A7AE561FB97A3C005183CD /* XMPPFrameworkSwift.framework */,
-				D9A7AFA11FB97A65005183CD /* XMPPFrameworkSwift.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -3168,30 +2943,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D9A7A9BF1FB97892005183CD /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D9A7B0191FB980E5005183CD /* XMPPFrameworkSwift.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D9A7ADB31FB97A3C005183CD /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D9A7B01A1FB980E6005183CD /* XMPPFrameworkSwift.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D9A7AEFE1FB97A65005183CD /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D9A7B01B1FB980E6005183CD /* XMPPFrameworkSwift.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		D9DCD4971E6256D90010D1C7 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -3563,76 +3314,6 @@
 			productReference = 0D44BAEA1E537066000930E0 /* XMPPFramework.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		D9A7A9191FB97892005183CD /* XMPPFrameworkSwift (iOS) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D9A7AA5F1FB97892005183CD /* Build configuration list for PBXNativeTarget "XMPPFrameworkSwift (iOS)" */;
-			buildPhases = (
-				D9A7A9221FB97892005183CD /* Sources */,
-				D9A7A9B81FB97892005183CD /* Frameworks */,
-				D9A7A9BF1FB97892005183CD /* Headers */,
-				D9A7AA5E1FB97892005183CD /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				D9A7B00E1FB98057005183CD /* PBXTargetDependency */,
-				D9A7AFF61FB97F92005183CD /* PBXTargetDependency */,
-				D9A7A91A1FB97892005183CD /* PBXTargetDependency */,
-				D9A7A91C1FB97892005183CD /* PBXTargetDependency */,
-				D9A7A91E1FB97892005183CD /* PBXTargetDependency */,
-				D9A7A9201FB97892005183CD /* PBXTargetDependency */,
-			);
-			name = "XMPPFrameworkSwift (iOS)";
-			productName = "XMPPFramework-iOS";
-			productReference = D9A7AA621FB97892005183CD /* XMPPFrameworkSwift.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		D9A7AD0C1FB97A3C005183CD /* XMPPFrameworkSwift (macOS) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D9A7AE531FB97A3C005183CD /* Build configuration list for PBXNativeTarget "XMPPFrameworkSwift (macOS)" */;
-			buildPhases = (
-				D9A7AD151FB97A3C005183CD /* Sources */,
-				D9A7ADAB1FB97A3C005183CD /* Frameworks */,
-				D9A7ADB31FB97A3C005183CD /* Headers */,
-				D9A7AE521FB97A3C005183CD /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				D9A7B0111FB98064005183CD /* PBXTargetDependency */,
-				D9A7AD0D1FB97A3C005183CD /* PBXTargetDependency */,
-				D9A7AD0F1FB97A3C005183CD /* PBXTargetDependency */,
-				D9A7AD111FB97A3C005183CD /* PBXTargetDependency */,
-				D9A7AD131FB97A3C005183CD /* PBXTargetDependency */,
-			);
-			name = "XMPPFrameworkSwift (macOS)";
-			productName = "XMPPFramework-iOS";
-			productReference = D9A7AE561FB97A3C005183CD /* XMPPFrameworkSwift.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		D9A7AE581FB97A65005183CD /* XMPPFrameworkSwift (tvOS) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D9A7AF9E1FB97A65005183CD /* Build configuration list for PBXNativeTarget "XMPPFrameworkSwift (tvOS)" */;
-			buildPhases = (
-				D9A7AE611FB97A65005183CD /* Sources */,
-				D9A7AEF71FB97A65005183CD /* Frameworks */,
-				D9A7AEFE1FB97A65005183CD /* Headers */,
-				D9A7AF9D1FB97A65005183CD /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				D9A7B0141FB98075005183CD /* PBXTargetDependency */,
-				D9A7AE591FB97A65005183CD /* PBXTargetDependency */,
-				D9A7AE5B1FB97A65005183CD /* PBXTargetDependency */,
-				D9A7AE5D1FB97A65005183CD /* PBXTargetDependency */,
-				D9A7AE5F1FB97A65005183CD /* PBXTargetDependency */,
-			);
-			name = "XMPPFrameworkSwift (tvOS)";
-			productName = "XMPPFramework-iOS";
-			productReference = D9A7AFA11FB97A65005183CD /* XMPPFrameworkSwift.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		D9DCD3F71E6256D90010D1C7 /* XMPPFramework (macOS) */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = D9DCD5301E6256D90010D1C7 /* Build configuration list for PBXNativeTarget "XMPPFramework (macOS)" */;
@@ -3691,16 +3372,6 @@
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
 					};
-					D9A7A9191FB97892005183CD = {
-						LastSwiftMigration = 0910;
-						ProvisioningStyle = Automatic;
-					};
-					D9A7AD0C1FB97A3C005183CD = {
-						ProvisioningStyle = Automatic;
-					};
-					D9A7AE581FB97A65005183CD = {
-						ProvisioningStyle = Automatic;
-					};
 					D9DCD3F71E6256D90010D1C7 = {
 						ProvisioningStyle = Automatic;
 					};
@@ -3714,6 +3385,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 0D44BAE01E537066000930E0;
@@ -3742,9 +3414,6 @@
 				0D44BAE91E537066000930E0 /* XMPPFramework (iOS) */,
 				D9DCD3F71E6256D90010D1C7 /* XMPPFramework (macOS) */,
 				D9DCD55A1E6258CF0010D1C7 /* XMPPFramework (tvOS) */,
-				D9A7A9191FB97892005183CD /* XMPPFrameworkSwift (iOS) */,
-				D9A7AD0C1FB97A3C005183CD /* XMPPFrameworkSwift (macOS) */,
-				D9A7AE581FB97A65005183CD /* XMPPFrameworkSwift (tvOS) */,
 			);
 		};
 /* End PBXProject section */
@@ -3949,27 +3618,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D9A7AA5E1FB97892005183CD /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D9A7AE521FB97A3C005183CD /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D9A7AF9D1FB97A65005183CD /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		D9DCD52F1E6256D90010D1C7 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -4148,60 +3796,6 @@
 				D9DCD2FD1E6250930010D1C7 /* XMPPMessage+XEP_0184.m in Sources */,
 				D9DCD3301E6250930010D1C7 /* XMPPRoomLight.xcdatamodel in Sources */,
 				D95367DE1FB90DA00075502D /* XMPPBookmark.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D9A7A9221FB97892005183CD /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D97097BD1FC4DFD2008ED04B /* XMPPMessage+XEP_0085.swift in Sources */,
-				D9B81AC21FBCD25100455683 /* GCDMulticastDelegate.swift in Sources */,
-				D91D42431FD9DAC90064FD27 /* XMPPPresence+XEP_0319.swift in Sources */,
-				D97097A81FC4DF86008ED04B /* XMPPMessage.swift in Sources */,
-				D91D42481FD9DCAA0064FD27 /* Date+XEP_0082.swift in Sources */,
-				D97BE9EF1FBBACEA00CFE3BB /* XMPPBookmarksModule.swift in Sources */,
-				D9A7B0161FB980E2005183CD /* XMPPFramework.swift in Sources */,
-				D97BE9FE1FBBE4E200CFE3BB /* XMPPIQ.swift in Sources */,
-				D9B81AD91FBCE38F00455683 /* XMLElement.swift in Sources */,
-				D97BE9F71FBBCAA100CFE3BB /* XMPPModule.swift in Sources */,
-				D97097B81FC4DF96008ED04B /* XMPPPresence.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D9A7AD151FB97A3C005183CD /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D97097BE1FC4DFD2008ED04B /* XMPPMessage+XEP_0085.swift in Sources */,
-				D9B81AC31FBCD25100455683 /* GCDMulticastDelegate.swift in Sources */,
-				D91D42441FD9DAC90064FD27 /* XMPPPresence+XEP_0319.swift in Sources */,
-				D97097A91FC4DF86008ED04B /* XMPPMessage.swift in Sources */,
-				D91D42491FD9DCAA0064FD27 /* Date+XEP_0082.swift in Sources */,
-				D97BE9F01FBBACEA00CFE3BB /* XMPPBookmarksModule.swift in Sources */,
-				D9A7B0171FB980E2005183CD /* XMPPFramework.swift in Sources */,
-				D97BE9FF1FBBE4E200CFE3BB /* XMPPIQ.swift in Sources */,
-				D9B81ADA1FBCE38F00455683 /* XMLElement.swift in Sources */,
-				D97BE9F61FBBCAA000CFE3BB /* XMPPModule.swift in Sources */,
-				D97097B91FC4DF96008ED04B /* XMPPPresence.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D9A7AE611FB97A65005183CD /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D97097BF1FC4DFD2008ED04B /* XMPPMessage+XEP_0085.swift in Sources */,
-				D9B81AC41FBCD25100455683 /* GCDMulticastDelegate.swift in Sources */,
-				D91D42451FD9DAC90064FD27 /* XMPPPresence+XEP_0319.swift in Sources */,
-				D97097AA1FC4DF86008ED04B /* XMPPMessage.swift in Sources */,
-				D91D424A1FD9DCAA0064FD27 /* Date+XEP_0082.swift in Sources */,
-				D97BE9F11FBBACEA00CFE3BB /* XMPPBookmarksModule.swift in Sources */,
-				D9A7B0181FB980E2005183CD /* XMPPFramework.swift in Sources */,
-				D97BEA001FBBE4E200CFE3BB /* XMPPIQ.swift in Sources */,
-				D9B81ADB1FBCE38F00455683 /* XMLElement.swift in Sources */,
-				D97BE9F51FBBCAA000CFE3BB /* XMPPModule.swift in Sources */,
-				D97097BA1FC4DF96008ED04B /* XMPPPresence.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4536,86 +4130,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D9A7A91A1FB97892005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "iOS CocoaAsyncSocket";
-			targetProxy = D9A7A91B1FB97892005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7A91C1FB97892005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "CocoaLumberjack-iOS";
-			targetProxy = D9A7A91D1FB97892005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7A91E1FB97892005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "KissXML (iOS)";
-			targetProxy = D9A7A91F1FB97892005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7A9201FB97892005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "libidn (iOS)";
-			targetProxy = D9A7A9211FB97892005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7AD0D1FB97A3C005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = CocoaLumberjack;
-			targetProxy = D9A7AD0E1FB97A3C005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7AD0F1FB97A3C005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "libidn (macOS)";
-			targetProxy = D9A7AD101FB97A3C005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7AD111FB97A3C005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "KissXML (macOS)";
-			targetProxy = D9A7AD121FB97A3C005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7AD131FB97A3C005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Mac CocoaAsyncSocket";
-			targetProxy = D9A7AD141FB97A3C005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7AE591FB97A65005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "libidn (tvOS)";
-			targetProxy = D9A7AE5A1FB97A65005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7AE5B1FB97A65005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "KissXML (tvOS)";
-			targetProxy = D9A7AE5C1FB97A65005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7AE5D1FB97A65005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "CocoaLumberjack-tvOS";
-			targetProxy = D9A7AE5E1FB97A65005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7AE5F1FB97A65005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "tvOS CocoaAsyncSocket";
-			targetProxy = D9A7AE601FB97A65005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7AFF61FB97F92005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 0D44BAE91E537066000930E0 /* XMPPFramework (iOS) */;
-			targetProxy = D9A7AFF51FB97F92005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7B00E1FB98057005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "CocoaLumberjackSwift-iOS";
-			targetProxy = D9A7B00D1FB98057005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7B0111FB98064005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "CocoaLumberjackSwift-macOS";
-			targetProxy = D9A7B0101FB98064005183CD /* PBXContainerItemProxy */;
-		};
-		D9A7B0141FB98075005183CD /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "CocoaLumberjackSwift-tvOS";
-			targetProxy = D9A7B0131FB98075005183CD /* PBXContainerItemProxy */;
-		};
 		D9DCD3971E6250DB0010D1C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "libidn (iOS)";
@@ -4848,166 +4362,6 @@
 			};
 			name = Release;
 		};
-		D9A7AA601FB97892005183CD /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = "";
-				INFOPLIST_FILE = "$(SRCROOT)/Swift/XMPPFrameworkSwift-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFrameworkSwift;
-				PRODUCT_NAME = "$(PROJECT_NAME)Swift";
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
-		D9A7AA611FB97892005183CD /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = "";
-				INFOPLIST_FILE = "$(SRCROOT)/Swift/XMPPFrameworkSwift-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFrameworkSwift;
-				PRODUCT_NAME = "$(PROJECT_NAME)Swift";
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		D9A7AE541FB97A3C005183CD /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
-				CODE_SIGN_IDENTITY = "";
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = "";
-				INFOPLIST_FILE = "$(SRCROOT)/Swift/XMPPFrameworkSwift-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFrameworkSwift;
-				PRODUCT_NAME = "$(PROJECT_NAME)Swift";
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
-		D9A7AE551FB97A3C005183CD /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
-				CODE_SIGN_IDENTITY = "";
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = "";
-				INFOPLIST_FILE = "$(SRCROOT)/Swift/XMPPFrameworkSwift-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = "";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFrameworkSwift;
-				PRODUCT_NAME = "$(PROJECT_NAME)Swift";
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		D9A7AF9F1FB97A65005183CD /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = "";
-				INFOPLIST_FILE = "$(SRCROOT)/Swift/XMPPFrameworkSwift-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFrameworkSwift;
-				PRODUCT_NAME = "$(PROJECT_NAME)Swift";
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.0;
-			};
-			name = Debug;
-		};
-		D9A7AFA01FB97A65005183CD /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				APPLICATION_EXTENSION_API_ONLY = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = "";
-				INFOPLIST_FILE = "$(SRCROOT)/Swift/XMPPFrameworkSwift-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFrameworkSwift;
-				PRODUCT_NAME = "$(PROJECT_NAME)Swift";
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.0;
-			};
-			name = Release;
-		};
 		D9DCD5311E6256D90010D1C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -5137,33 +4491,6 @@
 			buildConfigurations = (
 				0D44BAF31E537066000930E0 /* Debug */,
 				0D44BAF41E537066000930E0 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		D9A7AA5F1FB97892005183CD /* Build configuration list for PBXNativeTarget "XMPPFrameworkSwift (iOS)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D9A7AA601FB97892005183CD /* Debug */,
-				D9A7AA611FB97892005183CD /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		D9A7AE531FB97A3C005183CD /* Build configuration list for PBXNativeTarget "XMPPFrameworkSwift (macOS)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D9A7AE541FB97A3C005183CD /* Debug */,
-				D9A7AE551FB97A3C005183CD /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		D9A7AF9E1FB97A65005183CD /* Build configuration list for PBXNativeTarget "XMPPFrameworkSwift (tvOS)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D9A7AF9F1FB97A65005183CD /* Debug */,
-				D9A7AFA01FB97A65005183CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
